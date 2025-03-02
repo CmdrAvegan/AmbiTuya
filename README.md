@@ -66,6 +66,53 @@ If you prefer, you can also manually clone the repository:
    pip install opencv-python PyQt6 tinytuya mss
    ```
 
+**C++ Module Compiling and Script Instructions**
+
+**Dependencies**
+
+- OpenCV (Core and ImgProc modules)
+- jsoncpp (JSON library, include <json/json.h>)
+- RapidJSON
+- Windows SDK (for <windows.h>)
+- Standard C++ libraries (iostream, vector, sstream, etc.)
+
+AmbiTuya includes a C++ module (with time.cpp and time_bindings.cpp) that handles screen capture and LED control. To compile the module on Windows, follow these steps:
+
+Open a Developer Command Prompt for Visual Studio.
+
+Navigate to the Repository:
+```bash
+cd AmbiTuya
+```
+
+Create and Enter a Build Directory:
+```bash
+mkdir build
+cd build
+```
+
+Generate the Visual Studio Solution using CMake:
+```bash
+cmake -G "Visual Studio 17 2022" -A x64 ..
+```
+
+Build the Project in Release Mode:
+```bash 
+cmake --build . --config Release
+```
+
+After successful compilation, the C++ module (e.g., time_bindings.pyd) will be available in the build folder. You can then integrate it with the Python script. For example:
+```bash
+import time_bindings
+```
+
+Process the screen and retrieve JSON output from the C++ module.
+```bash
+output = time_bindings.process_screen()
+print(output)
+```
+Ensure that the compiled module is in your Python path or the same directory as your Python scripts.
+
 <a id="usage" style="display:none;"></a>
 ## $${\color{orange}Usage}$$
 1. **Run the Application:**
