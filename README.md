@@ -1,7 +1,26 @@
-# $${\color{orange}AmbiTuya}$$
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/141686f4-e568-45af-b43d-11923bb33f2e" alt="AmbiTuya"/>
+</p>
 
-**AmbiTuya** is a Python-based application that synchronizes your screen's colors with a Tuya-compatible addressable LED strip, creating an immersive ambient lighting experience reminiscent of Ambilight or Govee systems. No coding or Arduino setup is required—AmbiTuya operates entirely over your local network, making it easy to get started and enjoy dynamic, cinema-like lighting effects with minimal effort.
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/github/license/cmdravegan/AmbiTuya?color=%23ff4800" alt="License"/>
+  <a href="https://github.com/CmdrAvegan/AmbiTuya/releases/tag/AmbiTuya">
+    <img src="https://img.shields.io/github/v/release/cmdravegan/AmbiTuya?display_name=release&style=flat&color=%23ff4800" alt="GitHub Release"/>
+  </a>
+  <img src="https://img.shields.io/github/issues/CmdrAvegan/AmbiTuya?color=%23ff4800" alt="GitHub issues"/>
+</p>
 
+<p align="center">
+  <strong>AmbiTuya</strong> is a Python-based application that synchronizes your screen's colors with a Tuya-compatible addressable LED strip, creating an immersive ambient lighting experience reminiscent of Ambilight or Govee systems. No coding or Arduino setup is required—AmbiTuya operates entirely over your local network, making it easy to get started and enjoy dynamic, cinema-like lighting effects with minimal effort.
+</p>
+<br><br><br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/822abba5-183e-4877-9af9-04d7f3c3c6b5" alt="ambituya"/>
+</p>
+
+<br><br>
 ## $${\color{orange}Table \space of \space Contents}$$
 - [Features](#features)
 - [Requirements](#requirements)
@@ -291,3 +310,5 @@ This project is licensed under the [MIT License](LICENSE).
 - [PyQt6](https://riverbankcomputing.com/software/pyqt/intro) for the GUI framework.
 - [OpenCV](https://opencv.org/) for powerful image processing.
 - [mss](https://python-mss.readthedocs.io/) for efficient cross-platform screen capture.
+
+<!-- Tuya, Ambilight, LED Sync, Smart Home, TinyTuya, Python, Screen Capture, Home Automation, Tuya Ambilight Github, Tuya Govee, Github, Tuya LED Ambient Lighting -->
