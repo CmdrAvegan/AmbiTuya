@@ -47,7 +47,6 @@
 
 <img src="https://github.com/user-attachments/assets/5aa7655f-c119-4314-a481-97121ea8d645" alt="Main Interface" title="Main Interface" width="300">
 <img src="https://github.com/user-attachments/assets/115ccc3f-0d82-4c81-ae7c-f0a98492743d" alt="Device Setup" title="Device Setup" width="300">
-<img src="https://github.com/user-attachments/assets/569c3479-492d-4292-8245-e0913300448c" alt="Settings" title="Settings" width="300">
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/8a9561bf-13f4-4393-8725-72526c086c6d" alt="Segment Editor" title="Segment Editor" width="700">
