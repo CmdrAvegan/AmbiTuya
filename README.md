@@ -45,12 +45,12 @@
 <a id="screenshots" style="display:none;"></a>
 ## $${\color{orange}Screenshots}$$
 
-<img src="https://github.com/user-attachments/assets/5aa7655f-c119-4314-a481-97121ea8d645" alt="Main Interface" title="Main Interface" width="300">
-<img src="https://github.com/user-attachments/assets/115ccc3f-0d82-4c81-ae7c-f0a98492743d" alt="Device Setup" title="Device Setup" width="300">
+<img src="https://github.com/user-attachments/assets/5aa7655f-c119-4314-a481-97121ea8d645" alt="Main Interface" title="Main Interface" width="350">
+<img src="https://github.com/user-attachments/assets/115ccc3f-0d82-4c81-ae7c-f0a98492743d" alt="Device Setup" title="Device Setup" width="350">
 
-<p align="center">
+
 <img src="https://github.com/user-attachments/assets/8a9561bf-13f4-4393-8725-72526c086c6d" alt="Segment Editor" title="Segment Editor" width="700">
-</p>
+
 
 <br><br>
 <a id="features" style="display:none;"></a>
